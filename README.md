@@ -1,5 +1,5 @@
 ### Hi there 👋
-***
+![](https://github.com/hscannell/hscannell/blob/main/rclv.png)
 
 My name is Hillary and I'm a Postdoctoral Research Scientist at the [Lamont-Doherty Earth Observatory](https://www.ldeo.columbia.edu/) in the [Climate Data Science Lab](https://ocean-transport.github.io/cds_lab.html?source=post_page-----4bc4314ac02d----------------------). I recieved my PhD in Physical Oceanography in 2020 from the University of Washington where I studied the drivers, trends, and patterns of extreme ocean warming events called marine heatwaves.
 
