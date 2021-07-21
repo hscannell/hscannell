@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hscannell&layout=compact" alt="hscannell" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hscannell&show_icons=true" alt="hscannell" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hscannell&show_icons=true" alt="hscannell" /></p>
 
