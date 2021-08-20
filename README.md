@@ -7,7 +7,9 @@ My current research interests include contributing to open-source software and u
 
 - 🔭 &nbsp;&nbsp;I’m currently working on eddy detection using machine learning.
 
-- 💬 &nbsp;&nbsp;Ask me about open & reproducible research, multiple object tracking, or running quasi-geostrophic idealized models in Python. 
+- 💬 &nbsp;&nbsp;Ask me about open & reproducible research, Python!, multiple object tracking, or running quasi-geostrophic idealized models in Python. 
+
+- 🤔 &nbsp;&nbsp;I'm interested in physics-informed machine learning & the [Julia](https://julialang.org/) programming language.
 
 - 📫 &nbsp;&nbsp;You can find my contact info [here](https://www.ldeo.columbia.edu/user/scannell).
 
