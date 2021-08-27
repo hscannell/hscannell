@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/hillary-scannell/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hillary-scannell" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hscannell&layout=compact" alt="hscannell" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hscannell&layout=compact" alt="hscannell" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hscannell&show_icons=true" alt="hscannell" /></p>
-
+ -->
